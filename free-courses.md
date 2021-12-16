@@ -1,4 +1,4 @@
-⚠️Do not get stuck in tutorial purgatory⚠️
+⚠️Practice makes perfect
 Get a job or build a project that people can actually use.
 
 <details open>
